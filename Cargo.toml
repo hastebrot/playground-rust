@@ -1,0 +1,6 @@
+[package]
+name = "playground-rust"
+version = "0.1.0"
+authors = ["Benjamin Gudehus <hastebrot@gmail.com>"]
+
+[dependencies]
